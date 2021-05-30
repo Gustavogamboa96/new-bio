@@ -1,0 +1,20 @@
+{
+  "name": "mybios",
+  "version": "1.0.0",
+  "description": "display twitter bios",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gustra",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "serverless-http": "^2.7.0",
+    "twit": "^2.2.11",
+    "twitter-api-client": "^1.3.8",
+    "twitter-v2": "^1.1.0"
+  }
+}
